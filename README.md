@@ -9,7 +9,7 @@ I’m an enthusiastic student about to start my college journey, diving into eng
 
 - 🌱 Incoming engineering undergrad specializing in AI
 - 💻 Explored a wide range of programming languages:  
-  Python (my all-time favorite!), Java, C++, C#, PHP, Perl, JavaScript, Go, Kotlin, Ruby, Swift, Scala, R, and Rust
+  Python (my all-time favorite!), Java, C++, C#, PHP, JavaScript, Kotlin, Swift
 - 📱 Built several web projects and mobile apps during my higher secondary years
 - 🏆 My proudest project:  
   A mobile app crafted with Python’s Kivy & KivyMD modules
