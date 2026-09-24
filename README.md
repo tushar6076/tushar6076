@@ -1,53 +1,136 @@
-# 👋 Hey there, I’m Tushar!
+# 👋 Hey, I'm Tushar!
 
-Welcome to my GitHub!  
-I’m an enthusiastic student about to start my college journey, diving into engineering with a focus on Artificial Intelligence. 🚀
+Welcome to my GitHub.
+
+I'm an AI/ML engineering student and developer who enjoys building things, experimenting with technology, and exploring how systems work beneath the surface.
+
+My journey started with small applications and hardware experiments and has grown into building AI-powered products, full-stack systems, intelligent applications, and engineering projects. I’m particularly interested in the intersection of software, AI, security, and real-world systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Incoming engineering undergrad specializing in AI
-- 💻 Explored a wide range of programming languages:  
-  Python (my all-time favorite!), Java, C++, C#, PHP, JavaScript, Kotlin, Swift
-- 📱 Built several web projects and mobile apps during my higher secondary years
-- 🏆 My proudest project:  
-  A mobile app crafted with Python’s Kivy & KivyMD modules
-- 🌐 Web programming with Django & Flask:  
-  I’ve worked with a full stack of web programming libraries, from HTML, CSS, and JavaScript to integrating them all within Django and Flask projects
-- 🤖 Robotics enthusiast:  
-  Built several robotics projects during my higher secondary school, so I possess vast knowledge about robotics
-- 🛠️ IC boards experience:  
-  Worked hands-on with Arduino, Raspberry Pi, ESP32, and more for both robotics and embedded systems projects
+- 🎓 B.Tech student specializing in Artificial Intelligence & Machine Learning
+- 🧠 Interested in building intelligent and practical systems
+- 💻 Experienced across software development, AI/ML, web technologies, backend systems, and application development
+- 🤖 Exploring robotics, autonomous systems, and the connection between software and hardware
+- 🔐 Long-term goal: becoming an ethical hacker
+- 🏗️ I enjoy taking ideas from problem statement → architecture → implementation → deployment
+- 🧪 I learn primarily by building, experimenting, breaking things, and figuring out how they work
+- 🚀 Actively participating in hackathons and developing solutions for real-world problems
 
 ---
 
-## 🛠️ My Top Skills
+## 🧠 What I Work With
 
-- **Python** (plus lots of libraries and frameworks)
-- Django & Flask for web development (including HTML, CSS, JavaScript, and more in projects)
-- Kivy, KivyMD
-- Robotics (theory and hands-on projects)
-- Embedded systems & IC boards (Arduino, Raspberry Pi, ESP32, etc.)
-- Web & mobile app development
-- Quick learning and a big curiosity for new tech!
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- LLM Applications
+- RAG Systems
+- Agentic AI
+- AI-powered automation
+
+### Software Engineering
+- Full-Stack Development
+- Backend Engineering
+- API Development
+- Database Systems
+- Application Development
+- System Architecture
+
+### Systems & Technology
+- Linux
+- Networking
+- Automation
+- Embedded Systems
+- Robotics
+- Cloud & Deployment
+
+### Areas I'm Exploring
+- Cybersecurity
+- Ethical Hacking
+- Advanced AI
+- Autonomous Systems
+- Robotics
+- Systems Engineering
 
 ---
 
-## 🎯 Fun Facts
+## 🛠️ Tech Stack
 
-- 🕺 I love dancing and hitting the gym!
-- 🛠️ Building things—whether it’s code, web projects, or robotics—makes my day
-- 🤓 Always exploring how tech can make a difference
+**Languages**
+
+`Python` `Java` `JavaScript` `Kotlin` `C/C++` `Bash`
+
+**AI / ML**
+
+`PyTorch` `Computer Vision` `LLMs` `RAG` `Agentic AI`
+
+**Web & Backend**
+
+`Next.js` `React` `FastAPI` `Flask` `Django` `Tailwind CSS`
+
+**Databases & Infrastructure**
+
+`SQL` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
+
+**Hardware**
+
+`Raspberry Pi` `ESP32` `Arduino` `Robotics`
 
 ---
 
-## 📬 Let’s Connect!
+## 🔭 What I'm Building
 
-*I’m not active on social media at the moment, but feel free to check out my projects here or drop me a message on GitHub!*
+I like working on projects that sit somewhere between software engineering and experimentation.
+
+Some of my work includes:
+
+- 🤖 AI-powered applications and intelligent agents
+- 🚁 Autonomous and AI-assisted robotics systems
+- 🌐 Full-stack platforms and developer tools
+- 👁️ Computer vision applications
+- 🧠 LLM and RAG-based systems
+- 🔐 Exploring security-oriented systems and tools
+
+Check out my repositories to see what I'm currently building.
 
 ---
 
-> “Keep learning, keep building, and never stop exploring.”
+## 📚 My Approach
 
-Thanks for stopping by! 😊
+I don't like limiting myself to a single technology or a predefined path.
+
+If something interests me, I learn it.  
+If something doesn't exist, I try to build it.  
+If something doesn't work, I try to understand why.
+
+My goal is to keep developing a broad and deep understanding of technology while eventually specialising in the areas that matter most to me.
+
+---
+
+## 🎯 Long-Term Goal
+
+**Become an ethical hacker and build a career around understanding, building, and securing complex systems.**
+
+There is still a lot to learn—and that's the fun part.
+
+---
+
+## 📊 GitHub
+
+<!-- Add GitHub stats/cards here -->
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting projects, hackathons, collaborations, and conversations around technology.
+
+**Build something interesting. Break something. Learn something. Repeat.**
+
+---
+
+> *Keep learning. Keep building. Keep going deeper.*
