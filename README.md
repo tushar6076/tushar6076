@@ -1,136 +1,54 @@
 # 👋 Hey, I'm Tushar!
 
-Welcome to my GitHub.
+Welcome to my GitHub!
 
-I'm an AI/ML engineering student and developer who enjoys building things, experimenting with technology, and exploring how systems work beneath the surface.
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about software development, problem-solving, and exploring how technology works beneath the surface.
 
-My journey started with small applications and hardware experiments and has grown into building AI-powered products, full-stack systems, intelligent applications, and engineering projects. I’m particularly interested in the intersection of software, AI, security, and real-world systems.
+Over the years, I've grown from building small applications and experimenting with hardware to developing more integrated software systems. I enjoy taking ideas from concept to implementation, working through technical challenges, and continuously improving my engineering skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student specializing in Artificial Intelligence & Machine Learning
-- 🧠 Interested in building intelligent and practical systems
-- 💻 Experienced across software development, AI/ML, web technologies, backend systems, and application development
-- 🤖 Exploring robotics, autonomous systems, and the connection between software and hardware
-- 🔐 Long-term goal: becoming an ethical hacker
-- 🏗️ I enjoy taking ideas from problem statement → architecture → implementation → deployment
-- 🧪 I learn primarily by building, experimenting, breaking things, and figuring out how they work
-- 🚀 Actively participating in hackathons and developing solutions for real-world problems
-
----
-
-## 🧠 What I Work With
-
-### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLM Applications
-- RAG Systems
-- Agentic AI
-- AI-powered automation
-
-### Software Engineering
-- Full-Stack Development
-- Backend Engineering
-- API Development
-- Database Systems
-- Application Development
-- System Architecture
-
-### Systems & Technology
-- Linux
-- Networking
-- Automation
-- Embedded Systems
-- Robotics
-- Cloud & Deployment
-
-### Areas I'm Exploring
-- Cybersecurity
-- Ethical Hacking
-- Advanced AI
-- Autonomous Systems
-- Robotics
-- Systems Engineering
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `Java` `JavaScript` `Kotlin` `C/C++` `Bash`
-
-**AI / ML**
-
-`PyTorch` `Computer Vision` `LLMs` `RAG` `Agentic AI`
-
-**Web & Backend**
-
-`Next.js` `React` `FastAPI` `Flask` `Django` `Tailwind CSS`
-
-**Databases & Infrastructure**
-
-`SQL` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
-
-**Hardware**
-
-`Raspberry Pi` `ESP32` `Arduino` `Robotics`
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning
+- 💻 Building practical software and intelligent applications
+- 🧠 Interested in system architecture and complex problem-solving
+- 🏗️ Enjoy working across the development process, from design to implementation and deployment
+- 🏆 Participating in hackathons and solving real-world problems
+- 🔐 Working toward my long-term goal of becoming an ethical hacker
 
 ---
 
 ## 🔭 What I'm Building
 
-I like working on projects that sit somewhere between software engineering and experimentation.
+I enjoy developing applications and systems that combine software engineering with practical experimentation. My work often involves connecting different components, designing how they interact, and turning ideas into functional solutions.
 
-Some of my work includes:
+I'm particularly drawn to projects that challenge me to think beyond individual features and understand how the complete system works.
 
-- 🤖 AI-powered applications and intelligent agents
-- 🚁 Autonomous and AI-assisted robotics systems
-- 🌐 Full-stack platforms and developer tools
-- 👁️ Computer vision applications
-- 🧠 LLM and RAG-based systems
-- 🔐 Exploring security-oriented systems and tools
-
-Check out my repositories to see what I'm currently building.
+Feel free to explore my repositories to see my work, experiments, and ongoing learning.
 
 ---
 
 ## 📚 My Approach
 
-I don't like limiting myself to a single technology or a predefined path.
+I believe in learning by building and understanding by experimenting. I prefer going beyond surface-level implementation to understand why something works, how its components interact, and where it can be improved.
 
-If something interests me, I learn it.  
-If something doesn't exist, I try to build it.  
-If something doesn't work, I try to understand why.
-
-My goal is to keep developing a broad and deep understanding of technology while eventually specialising in the areas that matter most to me.
+I value practical experience, continuous learning, and honest assessment of my own abilities. There's always something new to understand, and that's what keeps me building.
 
 ---
 
 ## 🎯 Long-Term Goal
 
-**Become an ethical hacker and build a career around understanding, building, and securing complex systems.**
-
-There is still a lot to learn—and that's the fun part.
-
----
-
-## 📊 GitHub
-
-<!-- Add GitHub stats/cards here -->
+To become an ethical hacker with a strong foundation in computer science, software engineering, and systems security.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting projects, hackathons, collaborations, and conversations around technology.
-
-**Build something interesting. Break something. Learn something. Repeat.**
+Always open to interesting technical discussions, hackathons, and opportunities to collaborate, learn, and build.
 
 ---
 
-> *Keep learning. Keep building. Keep going deeper.*
+<p align="center">
+  <i>Keep learning. Keep building. Keep going deeper.</i>
+</p>
